@@ -1,0 +1,54 @@
+item {
+  id: 1
+  name: 'Australian_Redback_Spider'
+}
+
+item {
+  id: 2
+  name: 'Australian_Tarantula_Spider'
+}
+
+item {
+  id: 3
+  name: 'Daddy_Long_Legs_Sprider'
+}
+
+item {
+  id: 4
+  name: 'Garden_orb_Weaver_Spider'
+}
+
+item {
+  id: 5
+  name: 'Huntsman_Spider'
+}
+
+item {
+  id: 6
+  name: 'Recluse_Spider'
+}
+
+item {
+  id: 7
+  name: 'RedHeaded_Spider'
+}
+
+item {
+  id: 8
+  name: 'St_Andrews_Cross_Spider'
+}
+
+item {
+  id: 9
+  name: 'Sydney_Funnel-Web_Spider'
+}
+
+item {
+  id: 10
+  name: 'White_Tailed_Spider'
+}
+
+item {
+  id: 11
+  name: 'person'
+}
